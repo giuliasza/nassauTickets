@@ -36,10 +36,10 @@ Antes de iniciar, certifique-se de que tem instalado na sua máquina:
 
 ## Membros
 
-| Nome | Matrícula | Papel |
-| Maria Giulia Souza Martins | 01822824 | Scrum Master |
-| Pedro Ferreira da Rocha Falcão | 01830497 | Documentador |
-| Caique Barbosa Pimentel de Andrade | 01799401 | Desenvolvedor |
-| Gabriel Morais Justino | 01806064 | Desenvolvedor |
-| Henrique Gomes Gonzaga Diniz | 01796760 | Testador |
-| José Edeilson da Silva Júnior | 01805046 | Testador |
+* | Nome | Matrícula | Papel |
+* | Maria Giulia Souza Martins | 01822824 | Scrum Master |
+* | Pedro Ferreira da Rocha Falcão | 01830497 | Documentador |
+* | Caique Barbosa Pimentel de Andrade | 01799401 | Desenvolvedor |
+* | Gabriel Morais Justino | 01806064 | Desenvolvedor |
+* | Henrique Gomes Gonzaga Diniz | 01796760 | Testador |
+* | José Edeilson da Silva Júnior | 01805046 | Testador |
